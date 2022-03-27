@@ -15,6 +15,6 @@ React Native, Expo, Typescript
 ## Screenshots
 
 <div style="flex-direction: row;">
-<img src="https://github.com/fealex95/gofinance-rocketseat/blob/master/Screenshots/WhatsApp%20Image%202022-03-26%20at%2021.53.54%20(1).jpeg" width=190 />
-<img src="https://github.com/fealex95/gofinance-rocketseat/blob/master/Screenshots/WhatsApp%20Image%202022-03-26%20at%2021.53.54%20(1).jpeg" width=190 />
+<img src="https://github.com/fealex95/SavePass/blob/main/Screenshots/WhatsApp%20Image%202022-03-27%20at%2016.08.53.jpeg" width=190 />
+<img src="https://github.com/fealex95/SavePass/blob/main/Screenshots/WhatsApp%20Image%202022-03-27%20at%2016.09.09.jpeg" width=190 />
 </div>
